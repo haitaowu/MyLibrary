@@ -1,0 +1,22 @@
+{
+  "name": "MyLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of MyLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/haitaowu/MyLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "haitaowu": "woxiaotao521@126.com"
+  },
+  "source": {
+    "git": "https://github.com/haitaowu/MyLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MyLibrary/Classes/**/*"
+}
